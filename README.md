@@ -10,33 +10,14 @@ Search products by name, description, or brand
 RESTful API design
 
 Integration with MySQL using Spring Data JPA
+spring.application.name=SpringEcom
 
-Project Structure
-lua
-Copy
-Edit
-src/
-└── main/
-    ├── java/
-    │   └── com.telusko.SpringEcom/
-    │       ├── controller/       --> Handles HTTP requests
-    │       ├── model/            --> Entity classes (e.g., Product)
-    │       ├── repository/       --> JPA Repository interfaces
-    │       └── service/          --> Business logic
-    └── resources/
-        ├── application.properties
-
-
-Configure application.properties
-properties
-Copy
-Edit
-spring.datasource.url=jdbc:mysql://localhost:3306/ecomdb
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-
+spring.datasource.url=jdbc:postgresql://localhost:5432/telusko1
+spring.datasource.username=postgres
+spring.datasource.password=********
+spring.datasource.driver-class-name=org.postgresql.Driver
 spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
 
+spring.datasource.hikari.auto-commit=false
 
 
