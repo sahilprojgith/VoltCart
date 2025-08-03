@@ -12,7 +12,7 @@ RESTful API design
 Integration with MySQL using Spring Data JPA
 spring.application.name=SpringEcom
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/telusko1
+spring.datasource.url=jdbc:postgresql://localhost:5432/sahil
 spring.datasource.username=postgres
 spring.datasource.password=********
 spring.datasource.driver-class-name=org.postgresql.Driver
