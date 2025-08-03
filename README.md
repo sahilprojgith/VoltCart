@@ -1,4 +1,4 @@
-# E-Commerce-Backend-Spring-Boot-
+#VoltCart-Spring-Boot-
 Inspired from TELUSKO SPRING 6 course - you can refer React Frontend code from his Github
 
 Here's Backend:
