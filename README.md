@@ -1,5 +1,5 @@
 #VoltCart-Spring-Boot-
-Inspired from TELUSKO SPRING 6 course - you can refer React Frontend code from his Github
+Inspired from TELUSKO SPRING 6 course - 
 
 Here's Backend:
 📦 Features
