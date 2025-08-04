@@ -1,4 +1,4 @@
-package com.telusko.SpringEcom;
+package com.sahil.SpringEcom;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
