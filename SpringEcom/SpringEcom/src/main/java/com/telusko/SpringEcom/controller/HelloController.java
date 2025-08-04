@@ -1,4 +1,4 @@
-package com.telusko.SpringEcom.controller;
+package com.sahil.SpringEcom.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -11,3 +11,4 @@ public class HelloController {
         return "Welcome to this madness!!";
     }
 }
+
