@@ -1,7 +1,7 @@
-package com.telusko.SpringEcom.service;
+package com.sahil.SpringEcom.service;
 
-import com.telusko.SpringEcom.controller.ProductService;
-import com.telusko.SpringEcom.model.Product;
+import com.sahil.SpringEcom.controller.ProductService;
+import com.sahil.SpringEcom.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -92,3 +92,4 @@ public class ProductController {
 
 
 }
+
