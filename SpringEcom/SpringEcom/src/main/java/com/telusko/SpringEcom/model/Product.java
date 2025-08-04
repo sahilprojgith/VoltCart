@@ -1,4 +1,4 @@
-package com.telusko.SpringEcom.model;
+package com.sahil.SpringEcom.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
@@ -148,3 +148,4 @@ public class Product {
         this.imageData = imageData;
     }
 }
+
