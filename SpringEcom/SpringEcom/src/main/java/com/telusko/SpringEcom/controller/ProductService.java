@@ -1,4 +1,4 @@
-package com.telusko.SpringEcom.controller;
+package com.sahil.SpringEcom.controller;
 
 import com.telusko.SpringEcom.model.Product;
 import com.telusko.SpringEcom.repo.ProductRepo;
@@ -46,3 +46,4 @@ public class ProductService {
         return productRepo.searchProducts(keyword);
     }
 }
+
