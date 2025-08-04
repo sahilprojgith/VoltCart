@@ -1,7 +1,7 @@
 package com.sahil.SpringEcom.controller;
 
-import com.telusko.SpringEcom.model.Product;
-import com.telusko.SpringEcom.repo.ProductRepo;
+import com.sahil.SpringEcom.model.Product;
+import com.sahil.SpringEcom.repo.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
@@ -46,4 +46,5 @@ public class ProductService {
         return productRepo.searchProducts(keyword);
     }
 }
+
 
