@@ -1,5 +1,4 @@
 #VoltCart-Spring-Boot-
-Inspired from TELUSKO SPRING 6 course - 
 
 Here's Backend:
 📦 Features
